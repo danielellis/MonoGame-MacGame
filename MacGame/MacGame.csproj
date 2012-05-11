@@ -8,8 +8,7 @@
     <ProjectGuid>{A20796A1-0E89-455A-9C4D-3571E566BB47}</ProjectGuid>
     <ProjectTypeGuids>{948B3504-5B70-4649-8FE4-BDE1FB46EC69};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Exe</OutputType>
-    <RootNamespace>com.danieliscool.BlockAssault</RootNamespace>
-    <AssemblyName>Skate-MacOS</AssemblyName>
+    <AssemblyName>MacGame</AssemblyName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
     <DebugSymbols>true</DebugSymbols>
@@ -55,5 +54,8 @@
   <ItemGroup>
     <Folder Include="Content\" />
     <Folder Include="Content\Images\" />
+  </ItemGroup>
+  <ItemGroup>
+    <InterfaceDefinition Include="MainMenu.xib" />
   </ItemGroup>
 </Project>

@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>com.danieliscool.BlockAssault-MacOS</string>
+	<string>com.github.danielellis.monogame.macgame</string>
 	<key>CFBundleName</key>
-	<string>BlockAssault-MacOS</string>
+	<string>MonoGame-MacGame</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
 	<key>LSMinimumSystemVersion</key>
