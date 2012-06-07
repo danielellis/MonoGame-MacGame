@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGame.Framework.MacOS", "..\MonoGame\MonoGame.Framework\MonoGame.Framework.MacOS.csproj", "{36C538E6-C32A-4A8D-A39C-566173D7118E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lidgren.Network.MacOS", "..\MonoGame\ThirdParty\Lidgren.Network\Lidgren.Network.MacOS.csproj", "{AE483C29-042E-4226-BA52-D247CE7676DA}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MacGame", "MacGame\MacGame.csproj", "{A20796A1-0E89-455A-9C4D-3571E566BB47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGame.Framework.MacOS", "MonoGame\MonoGame.Framework\MonoGame.Framework.MacOS.csproj", "{36C538E6-C32A-4A8D-A39C-566173D7118E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lidgren.Network.MacOS", "MonoGame\ThirdParty\Lidgren.Network\Lidgren.Network.MacOS.csproj", "{AE483C29-042E-4226-BA52-D247CE7676DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -38,7 +38,6 @@ Global
 		Policies = $0
 		$0.TextStylePolicy = $1
 		$1.FileWidth = 120
-		$1.RemoveTrailingWhitespace = True
 		$1.EolMarker = Unix
 		$1.inheritsSet = VisualStudio
 		$1.inheritsScope = text/plain
