@@ -4,8 +4,9 @@ I had a bit of trouble finding a functional template for MonoGame on the Mac. I 
 ## Instructions
 
 1. Install all prerequesites listed [here](https://github.com/mono/MonoGame/wiki/Tutorials%3AInstalling-Prerequisites-on-MacOS-for-MonoMac-project)
-2. Fork or copy the contents of this project
-3. Open MacGame.sln in MonoDevelop
-4. Start it up!
+2. Clone this project
+3. Run `git submodule init` and `git submodule update` to check out the MonoGame code.
+4. Open MacGame.sln in MonoDevelop
+5. Start it up!
 
 Feedback welcome. Please open issues if you run into more problems or feel something is otherwise incomplete.
