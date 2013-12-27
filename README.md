@@ -1,4 +1,4 @@
-#MonoDevelop MonoGame Template for MacOS
+#MonoDevelop MonoGame Template for Mac OSX
 I had a bit of trouble finding a functional template for MonoGame on the Mac. I also found the steps for getting it to work from scratch to be difficult for somebody new to the platform. I added this repository to help anybody else out who's trying to get started.
 
 ## Instructions
